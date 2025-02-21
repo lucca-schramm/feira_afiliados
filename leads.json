@@ -1,15 +1,5 @@
 {
   "leads": [
-    {
-      "nome": "Murilo",
-      "email": "Murilo@gmail.com",
-      "telefone": "71996038214"
-    },
-    {
-      "nome": "Lucca",
-      "email": "Luccascho@gmail.com",
-      "telefone": "71996038214",
-      "data": "2025-02-21T20:13:43.752Z"
-    }
+
   ]
 }
