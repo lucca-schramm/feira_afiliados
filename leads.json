@@ -1,75 +1,10 @@
 {
   "leads": [
     {
-      "nome": "Murilo",
-      "email": "Murilo@gmail.com",
-      "telefone": "71996038214"
-    },
-    {
-      "nome": "Lucca",
-      "email": "Luccascho@gmail.com",
-      "telefone": "71996038214",
-      "data": "2025-02-21T20:15:03.604Z"
-    },
-    {
-      "nome": "Lucca",
-      "email": "Luccascho@gmail.com",
-      "telefone": "12938712983",
-      "data": "2025-02-21T20:23:21.911Z"
-    },
-    {
-      "nome": "Teste Everton",
-      "email": "jsjskdkj@hotmajl.com",
-      "telefone": "71983413356",
-      "data": "2025-02-21T21:37:01.931Z"
-    },
-    {
       "nome": "CAU� HENRIQUE",
       "email": "cauahenriquesoares06@gmail.com",
       "telefone": "+5521983195574",
       "data": "2025-02-21T23:32:29.394Z"
-    },
-    {
-      "nome": "teste teste",
-      "email": "teste@teste.com",
-      "telefone": "81788787878",
-      "data": "2025-02-23T21:23:25.260Z"
-    },
-    {
-      "nome": "teste",
-      "email": "teste@fsdad",
-      "telefone": "88888888",
-      "data": "2025-02-23T21:36:45.546Z"
-    },
-    {
-      "nome": "teste",
-      "email": "teste@teste.com",
-      "telefone": "989898",
-      "data": "2025-02-23T21:56:16.275Z"
-    },
-    {
-      "nome": "teste",
-      "email": "teste@teste.com",
-      "telefone": "982918392",
-      "data": "2025-02-23T21:57:54.943Z"
-    },
-    {
-      "nome": "teste",
-      "email": "teste@teste.com",
-      "telefone": "98989898",
-      "data": "2025-02-23T22:04:34.010Z"
-    },
-    {
-      "nome": "ANDERSON LIMA FREITAS",
-      "email": "anderson.turma6@gmail.com",
-      "telefone": "71992806643",
-      "data": "2025-02-24T03:39:34.616Z"
-    },
-    {
-      "nome": "Lucca",
-      "email": "luccascho@gmail.com",
-      "telefone": "71996038214",
-      "data": "2025-02-24T11:22:49.205Z"
     }
   ]
 }
